@@ -47,7 +47,6 @@ Para los parámetros definidos, el espectro AM presenta componentes principales 
 El ruido añade fluctuaciones aleatorias; el recorte modifica los picos de la onda; y la atenuación reduce la amplitud sin alterar idealmente las frecuencias.
 
 ## Autor
-Nombre del estudiante
-
+Carlos Eduardo
 ## Asignatura
 Señales y Sistemas
